@@ -1,6 +1,6 @@
 # Welcome to BioFAIR
 
-[Website](https://biofair.uk/) | [LinkedIn]([https://x.com/BioFAIRUK](https://www.linkedin.com/company/biofair-uk/)) | [Contact](mailto:info@biofair.uk)
+[Website](https://biofair.uk/) | [LinkedIn](https://www.linkedin.com/company/biofair-uk/) | [Contact](mailto:info@biofair.uk)
 
 BioFAIR is a federated digital research infrastructure for UK life sciences, driving a step-change in Findable, Accessible, Interoperable, and Re-usable (**FAIR**) research data management and reproducible data analytics for the UK life sciences. BioFAIR is funded by UKRI.
 
